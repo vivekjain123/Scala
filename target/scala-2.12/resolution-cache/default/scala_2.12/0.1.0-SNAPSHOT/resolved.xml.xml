@@ -4,7 +4,7 @@
 		module="scala_2.12"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20181212232151"
+		publication="20181224120512"
 	>
 		<description>
 		scala

@@ -6,3 +6,5 @@ exit
 eclipse
 exit
 eclipse
+sbt eclipse
+eclipse
